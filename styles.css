@@ -34,6 +34,7 @@ figure {
   border: 0.5px solid #2d4557;
   animation: 21s infinite fadeIn;
   max-width: 75%;
+  overflow: auto;
 }
 
 html {
