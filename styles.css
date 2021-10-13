@@ -74,7 +74,12 @@ span a {
   font-size: 1rem;
   color: #2d4557;
   cursor: copy;
-  margin: 1rem;
+  padding: 0.5rem;
+}
+
+#url {
+  max-width: 75vw;
+  overflow: auto;
 }
 
 #right {
