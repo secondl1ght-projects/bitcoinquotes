@@ -136,4 +136,9 @@ span a {
   .hero {
     width: 95%;
   }
+
+  #style {
+    height: 75vh;
+    width: 75vw;
+  }
 }
