@@ -27,14 +27,6 @@ blockquote {
   font-size: 1.5rem;
 }
 
-#url {
-  max-width: 75%;
-}
-
-#copydiv {
-  width: 100vw;
-}
-
 figure {
   padding: 1.5%;
   background-color: #0d151e;
@@ -129,11 +121,7 @@ span a {
 }
 
 @media only screen and (max-width: 770px) {
-  figure {
-    max-width: 90%;
-  }
-
-  #url {
+  figure, #copydiv, #url {
     max-width: 90%;
   }
 }
