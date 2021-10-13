@@ -77,10 +77,6 @@ span a {
   margin: 1rem;
 }
 
-#url {
-  overflow: auto;
-}
-
 #right {
   display: flex;
   justify-content: flex-end;
