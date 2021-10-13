@@ -46,11 +46,6 @@ figcaption {
   font-size: 1.25rem;
 }
 
-a {
-  color: #f7931a;
-  font-size: 1rem;
-}
-
 a:hover {
   color: #e87f00;
 }
@@ -70,7 +65,8 @@ span a {
 }
 
 #url {
-  display: block;
+  font-size: 1rem;
+  color: #f7931a;
 }
 
 #copy {
