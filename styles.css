@@ -134,11 +134,6 @@ span a {
 
 @media only screen and (max-width: 770px) {
   .hero {
-    width: 95%;
-  }
-
-  #style {
-    height: 75vh;
-    width: 75vw;
+    width: 85%;
   }
 }
