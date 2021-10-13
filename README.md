@@ -43,8 +43,6 @@ Link to site: https://bitcoinquotes.io
 
 Project is: _live_
 
-Site is live but we can continue to add quotes to the list.
-
 ## Room for Improvement
 
 -   Any suggestions are welcome
