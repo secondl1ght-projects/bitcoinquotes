@@ -37,7 +37,7 @@ Link to site: https://bitcoinquotes.io
 
 ## Screenshots
 
-![screenshot](./images/screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Project Status
 
@@ -56,16 +56,16 @@ Contributions are welcome!
 To have a bitcoin quote added it must have some kind of insight, meaning or significance in bitcoins technology or history. I know this is somewhat subjective, but if you are a bitcoiner you should understand what might be a good addition into this collection.
 
 If you would like a new quote added and you do not know basic JavaScript you can request the quote be added by submitting an issue. Make sure there are 3 components to your request:
-[x] Quote
-[x] Speaker
-[x] Date of quote
-[x] URL to source of quote (if it was not posted on the internet this can be a link to a video of the person saying it)
+- Quote
+- Speaker
+- Date of quote
+- URL to source of quote (if it was not posted on the internet this can be a link to a video of the person saying it)
 
 If you would like to add a new quote and you know some basic JavaScript you can submit a PR, add a new `object` to the `quoteArray` in `scripts.js`. Each `object` needs to have the following `keys`:
-[x] `text`
-[x] `speaker`
-[x] `date`
-[x] `url`
+- `text`
+- `speaker`
+- `date`
+- `url`
 
 Please title your commits and PRs using 'Add quote from <speaker>'.
 
@@ -75,7 +75,7 @@ Any other ideas beyond adding new quotes are also welcome. :)
 
 -   Colors for theme used from https://bitcoindevlist.com
 -   Original quote set by https://bitcoinexplorer.org/
--   Icons by (<https://www.fontawesome.com>)
+-   Icons by https://www.fontawesome.com
 -   Coded using Atom text editor
 
 ## Contact
