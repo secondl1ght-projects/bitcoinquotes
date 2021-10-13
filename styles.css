@@ -17,7 +17,7 @@
   align-items: center;
 }
 
-body {
+body, html, main {
   margin: 0;
 }
 
