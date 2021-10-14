@@ -34,7 +34,6 @@ figure {
   border: 0.5px solid #2d4557;
   animation: 21s infinite fadeIn;
   max-width: 75%;
-  left: 5vw;
 }
 
 html {
@@ -124,11 +123,4 @@ span a {
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
-}
-
-@media only screen and (max-width: 770px) {
-  .hero {
-    width: 95vw;
-    height: 95vh;
-  }
 }
