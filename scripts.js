@@ -503,7 +503,9 @@ async function randomQuote() {
   const p = document.querySelector("#p");
   const figCaption = document.querySelector("#figcaption");
   const link = document.querySelector("#url");
+  const figure = document.querySelector('#figure');
 
+  figure.style.display = 'none';
   p.innerHTML = randomSelection.text;
   figCaption.innerHTML =
     "— <strong>" +
@@ -512,6 +514,7 @@ async function randomQuote() {
     randomSelection.date +
     "</em>";
   link.innerHTML = `<a href='${randomSelection.url}' target='_blank' rel='noreferrer'>${randomSelection.url}</a>`;
+  figure.style.display = 'block';
 }
 
 //Interval
