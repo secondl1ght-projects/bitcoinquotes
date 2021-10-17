@@ -53,6 +53,8 @@ Contributions are welcome!
 
 To have a bitcoin quote added it must have some kind of insight, meaning or significance in bitcoins technology or history. I know this is somewhat subjective, but if you are a bitcoiner you should understand what might be a good addition into this collection.
 
+The easiest way to check if a quote is already in the list would be to do CTRL+F on the scripts.js file and type in the quote.
+
 If you would like a new quote added and you do not know basic JavaScript, you can request the quote be added by submitting an issue. Make sure there are 3 components to your request:
 - Quote
 - Speaker
